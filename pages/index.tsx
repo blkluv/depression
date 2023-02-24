@@ -56,7 +56,7 @@ const Home: NextPage = () => {
   return (
     <div>
       <Head>
-        <title>Depr.ai</title>
+        <title>ARVRtise Depr</title>
         <link rel="icon" href="/logo.svg" />
       </Head>
       <div className="layout">
@@ -78,7 +78,7 @@ const Home: NextPage = () => {
                   clipRule="evenodd"
                 ></path>
               </svg>
-              Depr.ai!
+              ARVRtise Depr!
             </a>
           </Link>
           <div className="flex items-center justify-center gap-2 text-sm text-blue-600 text-bold">
@@ -91,7 +91,7 @@ const Home: NextPage = () => {
         <div className="lg:grid w-full grid-cols-3 gap-4 min-h-[40vh]">
           <div className="col-span-2">
             <h1 className="mb-3 text-6xl font-bold">
-              Welcome to <span className="text-blue-600">Depr.ai!</span>
+              Welcome to <span className="text-blue-600">ARVRtise Depr!</span>
             </h1>
             <h3>
               The AI platform for detecting and reducing your depression rate.
@@ -366,7 +366,7 @@ const Home: NextPage = () => {
       <footer className="flex items-center justify-center w-full h-24 mt-20 border-t">
         <div className="flex items-center justify-center gap-2">
           Powered by{" "}
-          <h4 className="font-bold text-blue-600"><a href='https://github.com/ziqinyeow/depr.ai'>@ziqinyeow</a></h4>
+          <h4 className="font-bold text-blue-600"><a href='https://arvrtise.com'>ARVRtise 💙</a></h4>
         </div>
       </footer>
     </div>
