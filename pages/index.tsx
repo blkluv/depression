@@ -287,7 +287,7 @@ const Home: NextPage = () => {
         </div>
         <div className="flex justify-start w-full mb-10 mt-28">
           <h1 className="text-6xl break-all">
-            <span className="text-blue-600">Tech</span>nologies
+            <span className="text-blue-600">Tech</span>
           </h1>
         </div>
         <div className="w-full mb-10">
