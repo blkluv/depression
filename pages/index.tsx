@@ -287,7 +287,7 @@ const Home: NextPage = () => {
         </div>
         <div className="flex justify-start w-full mb-10 mt-28">
           <h1 className="text-6xl break-all">
-            <span className="text-blue-600">Tech</span>
+            <span className="text-blue-600">Mental Check</span>
           </h1>
         </div>
         <div className="w-full mb-10">
@@ -301,28 +301,18 @@ const Home: NextPage = () => {
               />
             </div>
             <div className="md:p-8">
-              <h3 className="mb-2 font-bold text-blue-600 underline">Web</h3>
+              <h3 className="mb-2 font-bold text-blue-600 underline">Depr Score</h3>
               <h4 className="mb-2">
-                We use amazing web technologies to build this application.
+                What's your company's Depr score?
               </h4>
               <h4>
-                <b>Next.js</b> - Full stack React framework
+                <b>Quiz</b> your staff
               </h4>
               <h4>
-                <b>Tailwind</b> - Style
+                <b>ARVRtise</b> your Depr score
               </h4>
               <h4>
-                <b>Three.js</b> - JS 3D library
-              </h4>
-              <h4>
-                <b>Planetscale</b> - MySQL Serverless DB
-              </h4>
-              <h4>
-                <b>Prisma</b> - ORM
-              </h4>
-              <h4>
-                <b>Framer/Spring</b> - Animations
-              </h4>
+              <b><a href="https://tally.so/r/nG6paL">Apply</a></b> - Style
             </div>
           </div>
         </div>
@@ -336,19 +326,10 @@ const Home: NextPage = () => {
                 We use amazing machine learning technologies to train the model.
               </h4>
               <h4>
-                Exporting production model - <b>TensorFlow</b>
+                Keep track of your employee's <b>happiness</b>
               </h4>
               <h4>
-                Research modelling params - <b>PyTorch</b>
-              </h4>
-              <h4>
-                Utility modelling package - <b>Scikit Learn</b>
-              </h4>
-              <h4>
-                Transformer - <b>HuggingFace</b>
-              </h4>
-              <h4>
-                Logging and visualizing - <b>WANDB</b>
+                Attract new talent with <b>Depr</b>
               </h4>
             </div>
             <div className="relative w-full h-full min-h-[30vh]">
